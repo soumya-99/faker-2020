@@ -44,7 +44,7 @@ function FooterComponent() {
           <div className="container">
             © 2014 Copyright Faker Inc.
             <a className="grey-text text-lighten-4 right" href="#!">
-              More Links
+              All Rights Reserved.
             </a>
           </div>
         </div>

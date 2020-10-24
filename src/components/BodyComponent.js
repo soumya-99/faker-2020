@@ -19,6 +19,11 @@ function BodyComponent() {
       animationData: anim2,
     });
   }, []);
+
+
+  const showQuestions = () => {
+    console.log(`LOAD QUESTIONS`)
+  }
   return (
     <div className="container body">
       <h2 className="center-align">Follow With Us.</h2>
@@ -42,6 +47,9 @@ function BodyComponent() {
           <h2>Stop Fake News.</h2>
         </div>
       </div>
+      <h2>Take a Servey</h2>
+      <hr />
+      <button onClick={showQuestions}>Click Me</button>
     </div>
   );
 }
