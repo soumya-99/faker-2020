@@ -38,7 +38,7 @@ function ParallaxComponent() {
         <div className="row container">
           <h2 className="header green-text">⚠ Web of Fake Conspiracies.</h2>
           <p className="amber-text text-darken-4">
-            100% of 200% conspiracy theories are fake over the internet, that you can't ever imagine. Many many people are trying to 
+            100% of 200% conspiracy theories are fake over the internet, that you can't ever imagine. Political Polarization is constantly happening over the social media applications at a very large scale. We have to stop spreading fake newses.
           </p>
         </div>
       </div>

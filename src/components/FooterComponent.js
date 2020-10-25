@@ -7,33 +7,28 @@ function FooterComponent() {
         <div className="container">
           <div className="row">
             <div className="col l6 s12">
-              <h5 className="white-text">Footer Content</h5>
+              <h5 className="white-text">About Us</h5>
+              <hr/>
               <p className="grey-text text-lighten-4">
-                You can use rows and columns here to organize your footer
-                content.
+                This is an open source website for spreading social awareness. Please be with us and help us for your own future. Thank You.  
               </p>
             </div>
             <div className="col l4 offset-l2 s12">
               <h5 className="white-text">Links</h5>
               <ul>
                 <li>
-                  <a className="grey-text text-lighten-3" href="#!">
-                    Link 1
+                  <a className="grey-text text-lighten-3" href="https://www.facebook.com/soumyadeep.mondal.984">
+                    Facebook
                   </a>
                 </li>
                 <li>
-                  <a className="grey-text text-lighten-3" href="#!">
-                    Link 2
+                  <a className="grey-text text-lighten-3" href="https://www.instagram.com/m0ndal.s0umyadeep/">
+                    Instagram
                   </a>
                 </li>
                 <li>
-                  <a className="grey-text text-lighten-3" href="#!">
-                    Link 3
-                  </a>
-                </li>
-                <li>
-                  <a className="grey-text text-lighten-3" href="#!">
-                    Link 4
+                  <a className="grey-text text-lighten-3" href="https://twitter.com/Soumyadeep5000">
+                    Twitter
                   </a>
                 </li>
               </ul>
@@ -42,7 +37,7 @@ function FooterComponent() {
         </div>
         <div className="footer-copyright">
           <div className="container">
-            © 2014 Copyright Faker Inc.
+            © 2020 Copyright Faker Inc.
             <a className="grey-text text-lighten-4 right" href="#!">
               All Rights Reserved.
             </a>

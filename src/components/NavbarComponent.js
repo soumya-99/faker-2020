@@ -32,7 +32,7 @@ function NavbarComponent() {
                   <Link to="/helpus">Help Us</Link>
                 </li>
                 <li>
-                  <Link to="/">JavaScript</Link>
+                  <Link to="/">Description</Link>
                 </li>
               </ul>
             </div>
@@ -45,13 +45,13 @@ function NavbarComponent() {
       <BrowserRouter>
         <ul class="sidenav" id="mobile-demo">
           <li>
-            <Link to="/ourmotive"> OurMotive</Link>
+            <Link to="/ourmotive">OurMotive</Link>
           </li>
           <li>
-            <Link to="/">Components</Link>
+            <Link to="/">Help Us</Link>
           </li>
           <li>
-            <Link to="/">JavaScript</Link>
+            <Link to="/">Description</Link>
           </li>
         </ul>
       </BrowserRouter>
